@@ -241,4 +241,7 @@ section h3{
     .footer h1{
         margin-bottom: 5px;
     }
+    body{
+        overflow-x: hidden;
+    }
 }
